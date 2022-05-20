@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://BurlacuConstanta.github.io/SlavMSS/annotations/attempt1.json" ],
+  "@id" : "https://BurlacuConstanta.github.io/SlavMSS/annotations/collection.json",
+  "label" : "All annotations loaded in BurlacuConstanta/SlavMSS project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
