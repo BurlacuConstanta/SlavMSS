@@ -94,6 +94,11 @@
         },
         "on" : "http://d1cc8925-7ea2-4e79-8329-ccff190b2a5b"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://burlacuconstanta.github.io/SlavMSS/annotations/SlavMSS-p.4.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://d4744a8e-6583-44b5-acf4-a545e1ec5954",
@@ -119,11 +124,6 @@
           "width" : 3024
         },
         "on" : "http://d4744a8e-6583-44b5-acf4-a545e1ec5954"
-      } ],
-      "otherContent" : [ {
-        "@id" : "https://burlacuconstanta.github.io/SlavMSS/annotations/SlavMSS-p.4.json",
-        "@type" : "sc:AnnotationList",
-        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     }, {
