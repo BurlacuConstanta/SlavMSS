@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 3032,
+    "id" : "https://BurlacuConstanta.github.io/SlavMSS/images/IMG_2993/canvas/",
+    "label" : {
+      "none" : [ "IMG_2993" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://BurlacuConstanta.github.io/SlavMSS/images/IMG_2993/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://BurlacuConstanta.github.io/SlavMSS/images/IMG_2993/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 95,
+              "height" : 66
+            }, {
+              "width" : 190,
+              "height" : 132
+            }, {
+              "width" : 379,
+              "height" : 264
+            }, {
+              "width" : 758,
+              "height" : 528
+            }, {
+              "width" : 1516,
+              "height" : 1056
+            }, {
+              "width" : 3032,
+              "height" : 2112
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 3032,
+            "@id" : "https://BurlacuConstanta.github.io/SlavMSS/images/IMG_2993",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2112
+          } ],
+          "format" : "image/jpeg",
+          "width" : 3032,
+          "id" : "https://BurlacuConstanta.github.io/SlavMSS/images/IMG_2993/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 2112
+        },
+        "target" : "https://BurlacuConstanta.github.io/SlavMSS/images/IMG_2993/canvas/"
+      } ]
+    } ],
+    "height" : 2112
+  }, {
     "width" : 3080,
     "id" : "https://BurlacuConstanta.github.io/SlavMSS/images/IMG_2992/canvas/",
     "label" : {
