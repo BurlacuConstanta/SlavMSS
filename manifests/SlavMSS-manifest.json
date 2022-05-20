@@ -1,0 +1,179 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://BurlacuConstanta.github.io/SlavMSS/manifests/SlavMSS-manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "SouthSlavXIV",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[MS folia of a 14th century Psalter]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Personal pictures from the Bulgarian National Library]",
+  "sequences" : [ {
+    "@id" : "http://689f83f7-13e7-4ddd-a0c5-65bad8a3303f",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://84c5c93e-9efd-410a-a8bb-40440fee9343",
+      "@type" : "sc:Canvas",
+      "label" : "Beginning of MS 1",
+      "height" : 2112,
+      "width" : 3168,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://2a93ecda-d5e8-4462-a80e-68b41e1419dd",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://burlacuconstanta.github.io/SlavMSS/images/IMG_2752/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://burlacuconstanta.github.io/SlavMSS/images/IMG_2752",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2112,
+          "width" : 3168
+        },
+        "on" : "http://84c5c93e-9efd-410a-a8bb-40440fee9343"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://57cb631e-7400-473e-833b-0ddab91164c0",
+      "@type" : "sc:Canvas",
+      "label" : "Beginning of MS 2",
+      "height" : 2112,
+      "width" : 3168,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://9ec6cce1-b88b-4b49-a258-825c0fff3bc6",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://burlacuconstanta.github.io/SlavMSS/images/IMG_2753/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://burlacuconstanta.github.io/SlavMSS/images/IMG_2753",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2112,
+          "width" : 3168
+        },
+        "on" : "http://57cb631e-7400-473e-833b-0ddab91164c0"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://d1cc8925-7ea2-4e79-8329-ccff190b2a5b",
+      "@type" : "sc:Canvas",
+      "label" : "Beginning of MS 3",
+      "height" : 2112,
+      "width" : 3168,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://62c6e178-5341-48ea-b07f-0858e074caff",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://burlacuconstanta.github.io/SlavMSS/images/IMG_2754/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://burlacuconstanta.github.io/SlavMSS/images/IMG_2754",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2112,
+          "width" : 3168
+        },
+        "on" : "http://d1cc8925-7ea2-4e79-8329-ccff190b2a5b"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://d4744a8e-6583-44b5-acf4-a545e1ec5954",
+      "@type" : "sc:Canvas",
+      "label" : "Middle MS 1",
+      "height" : 2104,
+      "width" : 3024,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://4b8d8338-62c1-446d-8516-3c04fa08cee0",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://burlacuconstanta.github.io/SlavMSS/images/IMG_2991/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://burlacuconstanta.github.io/SlavMSS/images/IMG_2991",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2104,
+          "width" : 3024
+        },
+        "on" : "http://d4744a8e-6583-44b5-acf4-a545e1ec5954"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://7365d732-5ea4-45d9-99e0-560fe9d5370d",
+      "@type" : "sc:Canvas",
+      "label" : "Middle MS 2",
+      "height" : 2112,
+      "width" : 3080,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://b442410a-5a1b-40d7-8343-1d6c6a96f149",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://burlacuconstanta.github.io/SlavMSS/images/IMG_2992/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://burlacuconstanta.github.io/SlavMSS/images/IMG_2992",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2112,
+          "width" : 3080
+        },
+        "on" : "http://7365d732-5ea4-45d9-99e0-560fe9d5370d"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://fc916ed8-c360-409c-9d3a-2ed11ba533f1",
+      "@type" : "sc:Canvas",
+      "label" : "Middle MS 3",
+      "height" : 2112,
+      "width" : 3080,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://996a05ad-89dc-40b2-a954-c2ee0f889c2e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://burlacuconstanta.github.io/SlavMSS/images/IMG_2992/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://burlacuconstanta.github.io/SlavMSS/images/IMG_2992",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2112,
+          "width" : 3080
+        },
+        "on" : "http://fc916ed8-c360-409c-9d3a-2ed11ba533f1"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
