@@ -1,0 +1,13 @@
+{
+  "id" : "https://BurlacuConstanta.github.io/SlavMSS/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in BurlacuConstanta/SlavMSS project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://BurlacuConstanta.github.io/SlavMSS/manifests/SlavMSS-manifest.json",
+    "label" : "SouthSlavXIV"
+  } ]
+}
